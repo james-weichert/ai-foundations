@@ -1,0 +1,195 @@
+Name,Star,Num. Reviews,Price,Area,Category,Services,Searched City,Avg. Rating,Price Point,Avg. Price
+Tavolàta,4.0,343.0,2,First Hill,['Italian'],"['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.21,30,36.96
+Local 360,4.0,3163.0,2,Belltown,"['American (New)', 'Cocktail Bars']",['Takeout'],Seattle,3.96,30,30.5
+Café Campagne,4.0,1153.0,2,Downtown,"['French', 'Breakfast & Brunch', 'Cafes']","['Proof of vaccination required', 'Delivery', 'Takeout']",Seattle,4.2,30,22.75
+Katsu-ya Seattle,4.5,89.0,2,South Lake Union,"['Sushi Bars', 'Japanese', 'Seafood']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.36,30,34.66
+Tamari Bar,4.0,392.0,2,Capitol Hill,['Izakaya'],"['Proof of vaccination required', 'Delivery', 'Takeout']",Seattle,4.24,30,28.91
+Taylor Shellfish Oyster Bar,4.0,643.0,2,Lower Queen Anne,"['Seafood', 'Bars', 'Seafood Markets']","['Delivery', 'Takeout']",Seattle,4.14,30,26.82
+Art Marble 21,3.5,376.0,2,South Lake Union,"['Cocktail Bars', 'American (New)', 'Venues & Event Spaces']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.32,30,23.23
+Cafe Turko,4.5,1082.0,2,Fremont,"['Halal', 'Turkish', 'Mediterranean']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.77,30,36.3
+Habitant,4.5,58.0,2,Downtown,"['Tapas/Small Plates', 'Cocktail Bars']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.69,30,28.76
+Biang Biang Noodles,4.0,228.0,2,First Hill,"['Noodles', 'Chinese']","['Live wait time: 0 mins', 'Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.75,30,24.98
+Spice Waala,4.5,205.0,1,Capitol Hill,"['Indian', 'Street Vendors']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.94,15,17.94
+The Crab Pot,3.0,2312.0,3,Waterfront,['Seafood'],"['Delivery', 'Takeout']",Seattle,2.98,50,56.02
+Tacos Chukis,4.5,1772.0,1,Capitol Hill,['Mexican'],['Takeout'],Seattle,4.27,15,12.72
+S/T Hooligans,5.0,244.0,2,Fremont,"['Cajun/Creole', 'Burgers', 'American (New)']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.5,30,33.77
+Cafe Flora,4.0,1290.0,2,Madison Valley,"['Vegetarian', 'Vegan', 'Gluten-Free']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.99,30,33.24
+S/T Hooligans,5.0,244.0,2,Fremont,"['Cajun/Creole', 'Burgers', 'American (New)']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,5.0,30,18.73
+Karaage Setsuna,4.5,390.0,2,Belltown,"['Japanese', 'Hawaiian']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.48,30,11.83
+Intermezzo Carmine,4.5,241.0,2,Pioneer Square,"['Cocktail Bars', 'Italian']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.58,30,30.88
+Harbor City Restaurant,4.0,1779.0,2,Chinatown,"['Barbeque', 'Dim Sum', 'Cantonese']","['Delivery', 'Takeout']",Seattle,4.44,30,16.75
+Skillet Capitol Hill,4.0,2004.0,2,Central District,"['Breakfast & Brunch', 'American (New)']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.87,30,25.78
+Ristorante Machiavelli,4.0,875.0,2,Capitol Hill,"['Italian', 'Pizza', 'Desserts']","['Delivery', 'Takeout']",Seattle,3.88,30,23.17
+Tilikum Place Cafe,4.5,2091.0,2,Belltown,"['American (New)', 'Breakfast & Brunch', 'Desserts']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.84,30,43.64
+Local 360,4.0,3163.0,2,Belltown,"['American (New)', 'Cocktail Bars']",['Takeout'],Seattle,4.17,30,33.74
+Qin Xi’an Noodles,4.0,344.0,2,Capitol Hill,"['Chinese', 'Noodles']","['Delivery', 'Takeout']",Seattle,4.2,30,22.05
+Pomodoro,4.5,494.0,2,Eastlake,"['Italian', 'Spanish', 'Tapas/Small Plates']","['Proof of vaccination required', 'Delivery', 'Takeout']",Seattle,4.48,30,15.45
+Taylor Shellfish Oyster Bar,4.5,771.0,2,Pioneer Square,"['Seafood', 'Live/Raw Food']",['Waitlist opens at 3:00 pm'],Seattle,4.38,30,32.87
+Dead Line,4.5,232.0,2,Pioneer Square,"['Latin American', 'Cocktail Bars', 'Venues & Event Spaces']","['Proof of vaccination required', 'Delivery', 'Takeout']",Seattle,4.24,30,20.8
+Marination,4.0,290.0,2,Denny Triangle,"['Asian Fusion', 'Korean', 'Seafood']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.78,30,32.09
+Musang Seattle,4.5,158.0,2,Beacon Hill,['Filipino'],"['Outdoor dining', 'Delivery']",Seattle,4.65,30,34.16
+Altura,4.5,580.0,4,Capitol Hill,['Italian'],"['Outdoor dining', 'Takeout']",Seattle,4.57,100,140.01
+Bar Harbor,4.0,237.0,2,South Lake Union,"['Seafood', 'Cocktail Bars']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.98,30,32.43
+Tacos Chukis,4.5,1772.0,1,Capitol Hill,['Mexican'],['Takeout'],Seattle,4.51,15,11.81
+Morfire,4.5,215.0,2,Capitol Hill,"['Thai', 'Hot Pot', 'Bars']","['Delivery', 'Takeout']",Seattle,4.76,30,41.62
+Dough Zone - International District,4.0,1098.0,2,Chinatown,"['Shanghainese', 'Dim Sum', 'Noodles']","['Live wait time: 0 mins', 'Delivery', 'Takeout']",Seattle,4.32,30,38.53
+Olmstead,4.0,104.0,2,Capitol Hill,"['American (New)', 'Cocktail Bars']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.04,30,24.5
+Fat’s Fried Chicken & Waffles,4.5,631.0,2,Central District,"['Southern', 'Soul Food', 'Waffles']","['Delivery', 'Takeout']",Seattle,4.65,30,33.11
+Six Seven Restaurant,4.0,1072.0,3,Interbay,"['American (New)', 'Seafood', 'Cocktail Bars']",['Outdoor dining'],Seattle,3.65,50,58.13
+Moon Tree Sushi And Tapas,4.5,199.0,2,Lower Queen Anne,"['Sushi Bars', 'Japanese', 'Tapas Bars']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.48,30,31.81
+Le Coin,4.5,258.0,2,Fremont,"['Seafood', 'French', 'American (New)']","['Outdoor dining', 'Takeout']",Seattle,4.39,30,35.77
+Damn the Weather,4.0,468.0,2,Pioneer Square,"['Cocktail Bars', 'American (New)']","['Proof of vaccination required', 'Delivery', 'Takeout']",Seattle,4.26,30,36.7
+Kin Len Thai Night Bites,4.5,275.0,2,Fremont,"['Thai', 'Cocktail Bars', 'Noodles']","['Delivery', 'Takeout']",Seattle,4.43,30,29.68
+HoneyHole Sandwiches,4.0,1455.0,2,First Hill,"['Bars', 'Sandwiches']","['Outdoor dining', 'Takeout']",Seattle,3.79,30,43.17
+Due’ Cucina Italiana - Capitol Hill,4.5,602.0,2,Capitol Hill,"['Italian', 'Pasta Shops']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.46,30,34.14
+Reckless Noodle House,4.5,263.0,2,Atlantic,"['Bars', 'Noodles', 'Asian Fusion']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.74,30,34.31
+Kokkaku,4.0,218.0,3,Wallingford,"['American (New)', 'Japanese', 'Steakhouses']","['Delivery', 'Takeout']",Seattle,4.19,50,51.11
+Tsukushinbo,4.0,963.0,2,Japantown,"['Japanese', 'Sushi Bars', 'Seafood']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.94,30,16.5
+Bangrak Market,4.0,597.0,2,Belltown,"['Bars', 'Thai', 'Tapas/Small Plates']","['Live wait time: 0 mins', 'Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.79,30,20.41
+Monsoon Seattle,4.0,659.0,2,Capitol Hill,"['Vietnamese', 'Asian Fusion', 'Bars']",['Takeout'],Seattle,4.31,30,34.82
+Wild Ginger,4.0,111.0,2,Denny Triangle,"['Asian Fusion', 'Bars', 'Malaysian']","['Delivery', 'Takeout']",Seattle,4.17,30,26.21
+Bounty Kitchen Denny Triangle,4.0,97.0,2,Denny Triangle,"['Breakfast & Brunch', 'Salad', 'Wine Bars']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.09,30,29.43
+Cask & Trotter,4.0,625.0,2,South Lake Union,"['Barbeque', 'Bars', 'American (Traditional)']","['Delivery', 'Takeout']",Seattle,4.06,30,28.62
+Mamnoon,4.0,1010.0,2,Capitol Hill,"['Lebanese', 'Persian/Iranian', 'Syrian']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.12,30,30.01
+AQUA by El Gaucho,4.0,965.0,4,Interbay,['Seafood'],"['Delivery', 'Takeout']",Seattle,4.23,100,110.81
+Fogón Cocina Mexicana,4.5,1601.0,2,Capitol Hill,['Mexican'],"['Live wait time: 0 mins', 'Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.11,30,39.67
+Hello Em Viet Coffee & Roastery,4.5,128.0,1,Chinatown International District,"['Coffee Roasteries', 'Vietnamese', 'Breakfast & Brunch']",[],Seattle,4.71,15,8.32
+The White Swan Public House,4.0,288.0,2,South Lake Union,"['Bars', 'Seafood', 'Venues & Event Spaces']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.22,30,32.97
+Paseo,4.5,5216.0,2,Fremont,"['Caribbean', 'Cuban', 'Sandwiches']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.96,30,20.9
+Ramen Danbo,4.5,1356.0,2,Capitol Hill,"['Ramen', 'Noodles']","['Live wait time: 0 mins', 'Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.64,30,25.19
+Cortina,4.0,178.0,3,Downtown,['Italian'],['Outdoor dining'],Seattle,3.75,50,51.95
+Cinque Terre Ristorante,4.0,426.0,2,Denny Triangle,"['Italian', 'Seafood', 'Pizza']","['Outdoor dining', 'Takeout']",Seattle,3.89,30,29.01
+Ben Paris,4.0,298.0,2,Downtown,"['American (New)', 'Cocktail Bars', 'Breakfast & Brunch']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.26,30,39.48
+Noi Thai Cuisine,4.0,868.0,2,Downtown,['Thai'],"['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.35,30,32.14
+Dumpling The Noodle,4.5,181.0,2,Wallingford,"['Noodles', 'Chinese']","['Delivery', 'Takeout']",Seattle,4.74,30,23.12
+Old Stove Brewing,4.5,634.0,2,Downtown,"['Brewpubs', 'Seafood', 'Burgers']","['Waitlist is closed', 'Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.77,30,27.39
+Copine,4.5,200.0,3,Ballard,"['American (New)', 'French']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.29,50,57.15
+Canlis,4.0,1524.0,4,Westlake,"['American (New)', 'Seafood']",[],Seattle,4.13,100,72.89
+Xi’an Noodles,4.5,910.0,2,University District,"['Chinese', 'Hot Pot']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.39,30,33.83
+Palisade,4.0,1465.0,3,Magnolia,"['Seafood', 'Steakhouses', 'Asian Fusion']",['Outdoor dining'],Seattle,4.15,50,50.19
+LOCAL Public Eatery,4.0,415.0,2,South Lake Union,"['Bars', 'American (New)']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.4,30,25.44
+Biscuit Bitch,4.0,4046.0,1,Downtown,"['Breakfast & Brunch', 'Coffee & Tea', 'Southern']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.9,15,15.32
+Taylor Shellfish Farms - Seattle,4.0,1114.0,3,Capitol Hill,"['Seafood', 'Live/Raw Food']","['Live wait time: 0 mins', 'Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.78,50,54.25
+Dough Zone - Seattle Pine St.,4.0,502.0,2,Downtown,"['Shanghainese', 'Dim Sum', 'Noodles']","['Live wait time: 0 mins', 'Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.16,30,29.44
+Cactus Restaurants,4.0,816.0,2,South Lake Union,"['Tex-Mex', 'Mexican', 'New Mexican Cuisine']","['Live wait time: 0 mins', 'Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.84,30,29.53
+D’ La Santa,4.5,314.0,2,Capitol Hill,"['Mexican', 'Steakhouses']","['Outdoor dining', 'Takeout']",Seattle,4.49,30,25.91
+Kona Kitchen - Seattle,4.0,1033.0,2,Mapleleaf,"['Hawaiian', 'Breakfast & Brunch', 'Lounges']",['Takeout'],Seattle,4.08,30,20.59
+G.H. Pasta Co.,4.5,241.0,2,Denny Triangle,"['Italian', 'Pasta Shops']","['Delivery', 'Takeout']",Seattle,4.35,30,24.94
+Harry’s Fine Foods,4.0,178.0,2,Capitol Hill,['American (New)'],"['Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.97,30,26.82
+Haidilao Hot Pot,4.5,169.0,3,Downtown,"['Hot Pot', 'Szechuan']","['Live wait time: 0 mins', 'Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.69,50,47.47
+Violet,4.5,98.0,3,Capitol Hill,['American (New)'],"['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.47,50,68.37
+Dead Line,4.5,232.0,2,Pioneer Square,"['Latin American', 'Cocktail Bars', 'Venues & Event Spaces']","['Proof of vaccination required', 'Delivery', 'Takeout']",Seattle,3.91,30,29.7
+The Harvest Vine,4.5,623.0,3,Madison Valley,"['Tapas Bars', 'Spanish', 'Basque']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.89,50,59.04
+Pike Place Chowder,4.5,7695.0,2,Downtown,"['Seafood', 'Soup']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.69,30,27.78
+Oliver’s Lounge,4.0,166.0,2,Downtown,"['Lounges', 'Cocktail Bars', 'American (Traditional)']","['Delivery', 'Takeout']",Seattle,4.01,30,29.59
+Moon Tree Sushi And Tapas,4.5,199.0,2,Lower Queen Anne,"['Sushi Bars', 'Japanese', 'Tapas Bars']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.02,30,44.0
+Dacha Diner,4.5,98.0,2,Capitol Hill,"['Modern European', 'Russian', 'Georgian']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.67,30,21.33
+Habitant,4.5,58.0,2,Downtown,"['Tapas/Small Plates', 'Cocktail Bars']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.69,30,24.17
+Taylor Shellfish Oyster Bar,4.0,643.0,2,Lower Queen Anne,"['Seafood', 'Bars', 'Seafood Markets']","['Delivery', 'Takeout']",Seattle,3.66,30,23.69
+Meekong Bar,4.5,474.0,2,Belltown,"['Vietnamese', 'Asian Fusion', 'Soup']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.51,30,33.14
+List,4.5,1948.0,2,Belltown,"['Tapas/Small Plates', 'Cocktail Bars', 'American (Traditional)']",['Delivery'],Seattle,4.64,30,39.85
+Mr. West Cafe Bar,4.0,595.0,2,Denny Triangle,"['Bars', 'Cafes', 'Breakfast & Brunch']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.13,30,32.39
+The Ballard Cut,4.5,106.0,3,Ballard,"['American (New)', 'Wine Bars', 'Whiskey Bars']",[],Seattle,4.62,50,51.95
+Rocco’s,4.0,1563.0,2,Belltown,"['Bars', 'Pizza']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.9,30,33.34
+Bar Cotto,4.5,292.0,2,Capitol Hill,"['Bars', 'Pizza', 'Italian']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.0,30,36.24
+The Pink Door,4.5,5473.0,2,Downtown,"['Italian', 'Wine Bars', 'Seafood']","['Proof of vaccination required', 'Delivery', 'Takeout']",Seattle,4.37,30,30.96
+The Butcher’s Table,4.0,558.0,4,Denny Triangle,"['Steakhouses', 'Butcher', 'Wine Bars']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.22,100,66.05
+Market Grill,4.5,563.0,2,Downtown,"['Seafood', 'Sandwiches', 'Soup']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.13,30,39.19
+The Hart and The Hunter,4.0,133.0,2,Downtown,"['Southern', 'Breakfast & Brunch', 'Cocktail Bars']","['Delivery', 'Takeout']",Seattle,3.96,30,41.61
+Cascina Spinasse,4.5,1106.0,3,Capitol Hill,['Italian'],"['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.17,50,66.1
+Portage Bay Cafe - Roosevelt,4.0,2504.0,2,University District,"['American (New)', 'Breakfast & Brunch', 'Cafes']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.86,30,34.06
+Nue,4.0,1067.0,2,Capitol Hill,"['Tapas/Small Plates', 'Cocktail Bars', 'Breakfast & Brunch']","['Live wait time: 0 mins', 'Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.32,30,36.82
+Meet Korean BBQ,4.5,150.0,3,Capitol Hill,"['Barbeque', 'Korean']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.64,50,73.18
+Citizen,4.0,1029.0,2,Lower Queen Anne,"['Creperies', 'Coffee & Tea', 'Breakfast & Brunch']","['Outdoor dining', 'Takeout']",Seattle,3.87,30,25.07
+Hanok,4.5,115.0,2,Madison Park,"['Korean', 'Asian Fusion']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.06,30,23.29
+Cookie’s Country Chicken,4.5,69.0,2,SoDo,"['Chicken Shop', 'Pop-Up Restaurants']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.5,30,30.73
+Kona Kitchen - Seattle,4.0,1033.0,2,Mapleleaf,"['Hawaiian', 'Breakfast & Brunch', 'Lounges']",['Takeout'],Seattle,4.28,30,34.83
+Purple Café and Wine Bar,4.0,2511.0,3,Downtown,"['American (New)', 'Wine Bars', 'Desserts']",['Delivery'],Seattle,4.13,50,8.42
+Champagne Diner,4.0,82.0,2,Interbay,"['Cocktail Bars', 'Diners']","['Proof of vaccination required', 'Delivery', 'Takeout']",Seattle,3.77,30,31.16
+Betty,4.0,373.0,2,Queen Anne,"['American (New)', 'Specialty Food', 'Cocktail Bars']",[],Seattle,4.22,30,31.25
+Herb & Bitter Public House,4.0,341.0,2,Capitol Hill,"['Tapas/Small Plates', 'Cocktail Bars', 'Salad']","['Outdoor dining', 'Takeout']",Seattle,3.57,30,45.45
+19 GOLD,4.5,531.0,2,Fremont,"['Taiwanese', 'Chinese', 'Bubble Tea']","['Live wait time: 0 mins', 'Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.45,30,39.72
+Lionhead,4.0,266.0,2,Capitol Hill,"['Szechuan', 'Cocktail Bars', 'Noodles']","['Delivery', 'Takeout']",Seattle,4.11,30,33.64
+iconiq,4.5,110.0,3,Mount Baker,"['French', 'Japanese']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.2,50,55.34
+El Grito Taqueria,4.0,206.0,2,South Lake Union,['Mexican'],"['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.17,30,27.63
+Black Bottle,4.0,1112.0,2,Belltown,"['American (New)', 'Gastropubs', 'Tapas/Small Plates']",[],Seattle,3.84,30,23.11
+Shiro’s,4.5,2269.0,4,Belltown,"['Sushi Bars', 'Japanese']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.29,100,126.6
+Elliott’s Oyster House,4.0,3658.0,3,Waterfront,['Seafood'],"['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.5,50,42.72
+Witness,4.5,847.0,2,Capitol Hill,"['Southern', 'Cocktail Bars']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.5,30,35.89
+Quinn’s,4.0,1305.0,2,First Hill,"['American (New)', 'Pubs']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.08,30,29.11
+Skalka,4.5,274.0,2,Downtown,"['Breakfast & Brunch', 'Sandwiches', 'Georgian']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.71,30,35.98
+Le Caviste,4.5,251.0,2,Denny Triangle,"['Wine Bars', 'French']","['Delivery', 'Takeout']",Seattle,4.93,30,36.41
+Mala & Satay,4.5,77.0,2,South Lake Union,['Vietnamese'],[],Seattle,4.46,30,30.09
+Mike’s Noodle House,4.0,1186.0,2,Chinatown,"['Chinese', 'Noodles', 'Soup']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.03,30,26.4
+Bottlehouse,4.5,350.0,2,Madrona,"['Wine Bars', 'Tapas/Small Plates']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.13,30,35.8
+Tavolàta,4.0,1029.0,3,Belltown,['Italian'],"['Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.73,50,45.77
+Piroshky Piroshky,4.5,6510.0,1,Downtown,"['Bakeries', 'Russian']","['Outdoor dining', 'Takeout']",Seattle,4.21,15,14.86
+Tacos Chukis,4.5,453.0,1,South Lake Union,"['Tacos', 'Sandwiches']",['Takeout'],Seattle,5.0,15,16.87
+Taurus Ox,4.5,164.0,2,Central District,"['Laotian', 'Asian Fusion', 'Noodles']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.3,30,31.15
+Ma’ono Fried Chicken,4.5,23.0,2,Denny Triangle,"['Chicken Shop', 'Sandwiches']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.52,30,23.91
+Asadero Ballard,4.5,751.0,2,Ballard,"['Mexican', 'Steakhouses']",[],Seattle,4.4,30,36.2
+Sisters And Brothers,4.0,615.0,2,Lower Queen Anne,"['Bars', 'Sandwiches', 'Chicken Shop']","['Delivery', 'Takeout']",Seattle,4.14,30,28.43
+Son of A Butcher,4.0,138.0,2,Eastlake,"['Korean', 'Barbeque']","['Delivery', 'Takeout']",Seattle,3.77,30,32.33
+Nana’s Green Tea,4.0,922.0,2,Denny Triangle,"['Japanese', 'Desserts', 'Cafes']","['Delivery', 'Takeout']",Seattle,4.09,30,33.81
+Bounty Kitchen,4.5,370.0,2,Queen Anne,"['Salad', 'Sandwiches', 'Breakfast & Brunch']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.78,30,28.21
+Stateside,4.0,953.0,2,Capitol Hill,"['Asian Fusion', 'Cocktail Bars']","['Proof of vaccination required', 'Takeout']",Seattle,4.27,30,37.6
+Pho Bac Súp Shop,4.0,769.0,2,Little Saigon,"['Vietnamese', 'Noodles']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.71,30,32.7
+Zig Zag Cafe,4.5,1037.0,2,Downtown,"['American (New)', 'Cocktail Bars', 'Mediterranean']",['Proof of vaccination required'],Seattle,4.71,30,29.37
+Teinei,4.0,233.0,2,South Lake Union,"['Sushi Bars', 'Ramen', 'Izakaya']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.45,30,38.71
+Radiator Whiskey,4.5,1272.0,2,Downtown,"['American (New)', 'Cocktail Bars', 'Comfort Food']","['Delivery', 'Takeout']",Seattle,4.46,30,32.65
+Paju,4.5,157.0,2,Lower Queen Anne,['Korean'],"['Delivery', 'Takeout']",Seattle,4.69,30,28.39
+JOEY Kitchen At University Village,4.0,811.0,2,University District,"['American (New)', 'Steakhouses', 'Sandwiches']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.64,30,28.47
+Some Random Bar,4.5,995.0,2,Belltown,"['American (New)', 'Cocktail Bars', 'Breakfast & Brunch']","['Proof of vaccination required', 'Delivery', 'Takeout']",Seattle,4.39,30,29.12
+Lola,4.0,3932.0,2,Belltown,"['Greek', 'Mediterranean', 'Breakfast & Brunch']",[],Seattle,4.31,30,36.12
+2120,4.0,421.0,3,Denny Triangle,"['American (New)', 'Cocktail Bars']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.77,50,35.95
+Stone Korean Restaurant,4.0,187.0,2,South Lake Union,"['Korean', 'Barbeque', 'Asian Fusion']","['Delivery', 'Takeout']",Seattle,3.91,30,25.69
+Kamonegi,4.0,293.0,2,Fremont,"['Japanese', 'Noodles']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.21,30,28.71
+Windy City Pie,4.5,514.0,2,Phinney Ridge,"['Pizza', 'Bars', 'Italian']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.43,30,21.11
+Wood Shop BBQ,4.5,542.0,2,Atlantic,"['Barbeque', 'Sandwiches', 'Beer, Wine & Spirits']","['Delivery', 'Takeout']",Seattle,4.62,30,27.94
+Ba Bar,3.5,259.0,2,South Lake Union,"['Vietnamese', 'Cocktail Bars', 'Bakeries']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.71,30,24.27
+wa’z,4.5,119.0,4,Belltown,['Japanese'],['Takeout'],Seattle,4.44,100,138.35
+mkt.,4.5,324.0,3,Wallingford,['American (New)'],"['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.35,50,54.58
+Kedai Makan,4.0,988.0,2,Capitol Hill,"['Malaysian', 'Noodles']","['Outdoor dining', 'Takeout']",Seattle,4.21,30,29.24
+Smith,4.0,870.0,2,Capitol Hill,"['Bars', 'American (New)', 'Breakfast & Brunch']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.9,30,23.74
+How To Cook a Wolf,4.0,956.0,3,Queen Anne,"['Italian', 'Tapas/Small Plates']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.9,50,49.57
+The Backdoor,4.0,280.0,2,Fremont,"['American (New)', 'Speakeasies', 'Cocktail Bars']","['Proof of vaccination required', 'Delivery', 'Takeout']",Seattle,3.94,30,39.02
+Noi Thai Cuisine,4.0,868.0,2,Downtown,['Thai'],"['Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.94,30,38.78
+Kedai Makan,4.0,988.0,2,Capitol Hill,"['Malaysian', 'Noodles']","['Outdoor dining', 'Takeout']",Seattle,3.7,30,18.94
+Dough Zone - Seattle Pine St.,4.0,502.0,2,Downtown,"['Shanghainese', 'Dim Sum', 'Noodles']","['Live wait time: 0 mins', 'Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.63,30,28.21
+Taneda Sushi in Kaiseki,5.0,205.0,4,Capitol Hill,"['Sushi Bars', 'Japanese']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.89,100,117.64
+Art of The Table,4.0,672.0,4,Fremont,['American (New)'],"['Delivery', 'Takeout']",Seattle,4.05,100,98.75
+Taku,4.0,68.0,2,Capitol Hill,"['Izakaya', 'Bars']","['Delivery', 'Takeout']",Seattle,4.33,30,37.56
+Grappa,4.0,277.0,2,Queen Anne,"['Mediterranean', 'Lounges', 'Wine Bars']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.88,30,35.54
+Pike Place Chowder,4.0,1247.0,2,Downtown,"['Seafood', 'Soup', 'American (Traditional)']","['Delivery', 'Takeout']",Seattle,3.92,30,35.37
+The Walrus and the Carpenter,4.0,1680.0,3,Ballard,"['Seafood', 'Tapas/Small Plates']","['Outdoor dining', 'Takeout']",Seattle,4.22,50,39.6
+Paju,4.5,157.0,2,Lower Queen Anne,['Korean'],"['Delivery', 'Takeout']",Seattle,4.96,30,23.76
+Smith,4.0,870.0,2,Capitol Hill,"['Bars', 'American (New)', 'Breakfast & Brunch']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.64,30,21.15
+Terra Plata,4.0,982.0,3,Capitol Hill,"['American (New)', 'Cocktail Bars', 'Wine Bars']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.74,50,46.93
+The Carlile Room,4.0,472.0,2,Downtown,"['American (New)', 'Bars', 'Burgers']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.85,30,29.67
+Cafe Flora,4.0,1290.0,2,Madison Valley,"['Vegetarian', 'Vegan', 'Gluten-Free']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.58,30,29.38
+Ba Bar,3.5,259.0,2,South Lake Union,"['Vietnamese', 'Cocktail Bars', 'Bakeries']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.55,30,38.81
+Seoul Bowl & Bar,4.5,55.0,2,Central District,"['Korean', 'Barbeque', 'Chicken Wings']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.32,30,18.61
+Shaker + Spear,4.5,843.0,2,Belltown,"['Seafood', 'American (New)', 'Breakfast & Brunch']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.78,30,30.93
+Daniel’s Broiler,3.5,860.0,4,South Lake Union,"['Steakhouses', 'Seafood']","['Delivery', 'Takeout']",Seattle,3.27,100,114.66
+Biscuit Bitch,4.5,1477.0,2,Belltown,"['Breakfast & Brunch', 'Southern', 'Coffee & Tea']","['Delivery', 'Takeout']",Seattle,4.54,30,24.18
+Eve Fremont,4.0,277.0,2,Fremont,['American (New)'],"['Delivery', 'Takeout']",Seattle,3.92,30,23.9
+A + Hong Kong Kitchen,4.0,596.0,2,Chinatown,"['Cantonese', 'Hong Kong Style Cafe']",[],Seattle,4.1,30,25.9
+Meet the Moon,4.0,552.0,2,Leschi,"['Coffee & Tea', 'Breakfast & Brunch', 'Bars']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.92,30,29.18
+Fogón Cocina Mexicana,4.5,1601.0,2,Capitol Hill,['Mexican'],"['Live wait time: 0 mins', 'Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.62,30,33.03
+Lionhead,4.0,266.0,2,Capitol Hill,"['Szechuan', 'Cocktail Bars', 'Noodles']","['Delivery', 'Takeout']",Seattle,3.8,30,28.87
+Palisade,4.0,1465.0,3,Magnolia,"['Seafood', 'Steakhouses', 'Asian Fusion']",['Outdoor dining'],Seattle,3.87,50,60.76
+Momiji,4.0,1512.0,2,Capitol Hill,"['Japanese', 'Sushi Bars', 'Asian Fusion']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.81,30,33.19
+wa’z,4.5,119.0,4,Belltown,['Japanese'],['Takeout'],Seattle,4.68,100,108.37
+Pasta Casalinga,4.5,208.0,2,Downtown,"['Italian', 'Pasta Shops']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.66,30,33.86
+ChungChun Rice Hot Dog,4.5,400.0,1,Chinatown,"['Korean', 'Hot Dogs']","['Outdoor dining', 'Takeout']",Seattle,4.57,15,15.47
+Von’s 1000 Spirits,4.5,1946.0,2,Downtown,"['American (New)', 'Burgers', 'Pubs']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.85,30,9.21
+Toulouse Petit Kitchen & Lounge,4.0,4254.0,2,Lower Queen Anne,"['Breakfast & Brunch', 'American (New)', 'Seafood']","['Delivery', 'Takeout']",Seattle,4.14,30,34.4
+re:public,4.0,575.0,2,South Lake Union,"['American (New)', 'Bars']",[],Seattle,3.84,30,31.29
+Rondo,4.5,191.0,2,Capitol Hill,"['Sushi Bars', 'Izakaya']",[],Seattle,4.68,30,26.09
+Kizuki Ramen & Izakaya,4.0,1352.0,2,Capitol Hill,"['Ramen', 'Izakaya']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.41,30,32.59
+Herb & Bitter Public House,4.0,341.0,2,Capitol Hill,"['Tapas/Small Plates', 'Cocktail Bars', 'Salad']","['Outdoor dining', 'Takeout']",Seattle,4.06,30,29.2
+Azuki Handmade Japanese Udon Noodles,4.5,101.0,2,Madison Valley,"['Japanese', 'Noodles']","['Outdoor dining', 'Takeout']",Seattle,4.46,30,29.86
+Eden Hill Restaurant,4.5,238.0,4,Queen Anne,"['American (New)', 'Desserts', 'Cocktail Bars']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,4.82,100,88.17
+Gold Bar,4.5,87.0,2,South Lake Union,"['Latin American', 'Cocktail Bars']","['Proof of vaccination required', 'Delivery', 'Takeout']",Seattle,4.47,30,28.67
+Star Fusion & Bar,5.0,124.0,2,Capitol Hill,"['Mongolian', 'Japanese', 'Cocktail Bars']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,5.0,30,28.15
+Tamarind Tree,4.0,1438.0,2,Little Saigon,"['Vietnamese', 'Noodles']","['Outdoor dining', 'Delivery', 'Takeout']",Seattle,3.92,30,35.63
